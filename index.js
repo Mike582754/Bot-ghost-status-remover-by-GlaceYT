@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🇺🇳 رول پلـی سـازمـان مـلـل 🇺🇳"];
+const statusMessages = ["رول پلـی سـازمـان مـلـل"];
 
 
 let currentIndex = 0;
