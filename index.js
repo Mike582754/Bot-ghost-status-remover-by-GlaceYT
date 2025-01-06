@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["رول پلـی سـازمـان مـلـل"];
+const statusMessages = ["Please sign the waiver !"];
 
 
 let currentIndex = 0;
